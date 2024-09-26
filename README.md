@@ -13,7 +13,7 @@ In this version of code, we only provide prompts for LLaMA and we will update pr
 The prompt is located in `/generate/action_prompt_3_llama.py`
 
 # Eval
-The eval framework are based on excellent work MAmmoTH and we made some improvements. 
+The eval framework are based on excellent work **MAmmoTH** and we made some improvements. 
 
 To use the eval tools:
 ```
