@@ -10,7 +10,7 @@ python /generate/treeSearch.py
 ```
 Before processing, set your own `base LLM`, `load_data_path`, `save_pat`.
 
-In this version of code, we only provide prompts for LLaMA and we will update prompts for Qwen as soon as the papare is accepated.
+In this version of code, we only provide prompts for LLaMA and we will update prompts for Qwen as soon as the paper is accepated.
 
 The prompt is located in `/generate/action_prompt_3_llama.py`
 
