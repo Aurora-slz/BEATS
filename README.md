@@ -8,7 +8,7 @@
 ```python
 python /generate/treeSearch.py
 ```
-Before processing, set your own `base LLM`, `load_data_path`, `save_pat`.
+Before processing, set your own `base LLM`, `load_data_path`, `save_path`.
 
 In this version of code, we only provide prompts for LLaMA and we will update prompts for Qwen as soon as the paper is accepated.
 
