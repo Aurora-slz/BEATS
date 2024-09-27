@@ -206,7 +206,7 @@ def eval_backVerify():
         print('** ', correct, wrong)
     
     if(len(reuse_data) > 0):
-        correct_2, wrong_2 = eval_math_backVerify(reuse_data)
+        correct_2, wrong_2 = process_eval_math_backVerify(reuse_data)
         correct += correct_2
         wrong = wrong_2
     print('Accuracy: ', correct / (correct + wrong))
